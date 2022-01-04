@@ -1,4 +1,4 @@
-### Hi i'm Waluka
+## Hi i'm Waluka
 
 - 🔭 I’m currently working on Upgrading and adding new features to My sites
 - 🌱 I’m currently learning: React Native
@@ -6,4 +6,4 @@
 
 - ⚡ Fun fact: I am acricket lover
 
-## Tools and Technologies
+### Tools and Technologies
