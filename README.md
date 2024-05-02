@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)## Hi i'm Waluka
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+## Hi i'm Waluka
 
 - 🔭 I’m currently working on Upgrading and adding new features to My sites
 - 🌱 I’m currently learning: AWS
