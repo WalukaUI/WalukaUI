@@ -3,7 +3,7 @@
 ## Hi i'm Waluka
 
 - 🔭 I’m currently working on Upgrading and adding new features to My sites
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: more AWS services
 - 📫 How to reach me: Email me => cwaluka@yahoo.com
 
 - ⚡ Fun fact: I am a cricket lover
